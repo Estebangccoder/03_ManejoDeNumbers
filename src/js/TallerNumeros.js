@@ -1,5 +1,5 @@
-let number1 = Math.round(Math.random() * 100)
-let number2 = Math.round(Math.random() * 100)
+let number1 = 2//Math.round(Math.random() * 100)
+let number2 = 4//Math.round(Math.random() * 100)
 
 document.write(number1," ")
 document.write(number2)
@@ -42,9 +42,14 @@ console.log(number4)
 
 // 7. Elevar un número a la potencia de otro.
 
+const potencia = number1**number2
+console.log(potencia) 
+
 
 // 8. Calcular la raíz cuadrada de un número.
+console.log(Math.sqrt(number2))
 // 9. Convertir grados Celsius a Fahrenheit.
+
 // 10.Calcular el área de un círculo.
 // 11.Calcular el perímetro de un cuadrado.
 // 12.Calcular el volumen de una esfera.
