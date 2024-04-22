@@ -311,6 +311,7 @@ console.log(Math.pow(4,3))
 
 console.groupEnd()
 
+
 console.groupCollapsed("Ejercicio 1") ; console.log(" 48-Calcular la suma de los primeros 15 números naturales") ;console.groupEnd()
 console.groupCollapsed("Ejercicio 1") ; console.log(" 49-Calcular la resta entre 100 y 55") ;console.groupEnd()
 console.groupCollapsed("Ejercicio 1") ; console.log(" 50-Multiplicar 6 por 8") ;console.groupEnd()
